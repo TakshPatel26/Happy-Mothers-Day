@@ -8,7 +8,7 @@ body, div, h1, h2, form, fieldset, input, textarea, footer, p {
 body { 
   
 	-webkit-perspective:800px;
-	background: #ccc url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/144467/bg_out2.png');
+	background: #ccc url();
 	color: #7c7873;
 -webkit-animation: bugfix infinite 1s; 
 }
